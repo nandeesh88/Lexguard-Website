@@ -28,7 +28,8 @@ Five adversarial AI agents dissect every clause of any contract and tell you exa
 - **Multi-format Support** — PDF, DOCX, TXT, or paste raw text directly
 
 ---
-
+** Demo video** - https://drive.google.com/file/d/17CdPpxyaSknNXBRv9RRT7EYItEx1doko/view?usp=drive_link
+---
 ## Agent Pipeline
 
 ```
